@@ -1,0 +1,6 @@
+PyQt5==5.15.1
+opencv-python==4.2.0.34
+numpy==1.18.2
+pyserial==3.4
+twilio==6.47.0
+playsound==1.2.2
